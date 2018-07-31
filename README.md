@@ -18,9 +18,15 @@ In the current scenario when an accident occurs, the two parties involved have t
 - [Usecases](#usecases)
 - [Architecture](#architecture)
 - [Compatibility with other Blockchain based insurance applications](#compatibility-with-other-blockchain-based-insurance-applications)
-- [Architecture](#architecture)
-- [Architecture](#architecture)
-- [Application aaWorkflow](#application-workflow)
+- [Application Workflow](#application-workflow)
+  * [Claim Generation](#claim-generation)
+  * [Verification and Update](#verification-and-update)
+  * [Police Report](#police-report)
+  * [Hospital Report](#hospital-report)
+- [Steps](#steps:)
+  * [1.Run the application](#1.run-the-application)
+- [Project structure](#project-structure)
+
     
 
 ## Included Components
