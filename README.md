@@ -82,8 +82,6 @@ If any injuries are involved in the accident the Hospital also will come into th
 - In the first console, run - `npm run start`
 - Use the link http://localhost:3001 to load the web application in the browser. This will take you to the landing page of our application. You can find more details about our application here.
 
-![Landing_page](readme_images/workflow.jpg)
-
 
 
 # Project structure
