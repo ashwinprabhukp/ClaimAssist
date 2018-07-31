@@ -22,7 +22,7 @@ In the current scenario when an accident occurs, the two parties involved have t
   * [Police Report](#police-report)
   * [Hospital Report](#hospital-report)
 - [Steps](#steps)
-  * [1.Run the application](#1-run-the-application)
+  * [1.Run the application](#1run-the-application)
 - [Project structure](#project-structure)
 
     
