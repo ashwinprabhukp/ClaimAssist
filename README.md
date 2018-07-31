@@ -11,10 +11,14 @@ In the current scenario when an accident occurs, the two parties involved have t
 -----------------------------
 ## Table of Contents
 -----------------------------
-- [Included Components](#includecomponents)
+- [Included Components](#included-components)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
+- [Prerequisites](#prerequisites)
+- [Usecases](#usecases)
+- [Architecture](#architecture)
+- [Compatibility with other Blockchain based insurance applications](#compatibility-with-other-blockchain-based-insurance-applications)
+
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
