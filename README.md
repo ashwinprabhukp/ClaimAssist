@@ -12,8 +12,6 @@ In the current scenario when an accident occurs, the two parties involved have t
 ## Table of Contents
 -----------------------------
 - [Included Components](#included-components)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
 - [Prerequisites](#prerequisites)
 - [Usecases](#usecases)
 - [Architecture](#architecture)
@@ -24,7 +22,7 @@ In the current scenario when an accident occurs, the two parties involved have t
   * [Police Report](#police-report)
   * [Hospital Report](#hospital-report)
 - [Steps](#steps:)
-  * [1.Run the application](#1.run-the-application)
+  * [1.Run the application](#run-the-application)
 - [Project structure](#project-structure)
 
     
