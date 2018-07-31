@@ -11,7 +11,7 @@ In the current scenario when an accident occurs, the two parties involved have t
 -----------------------------
 ## Table of Contents
 -----------------------------
-- [Included Components](#ncluded-components)
+- [Included Components](#included components)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
