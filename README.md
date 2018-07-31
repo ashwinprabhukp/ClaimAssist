@@ -21,7 +21,7 @@ In the current scenario when an accident occurs, the two parties involved have t
   * [Verification and Update](#verification-and-update)
   * [Police Report](#police-report)
   * [Hospital Report](#hospital-report)
-- [Steps](#steps:)
+- [Steps](#steps)
   * [1.Run the application](#1-run-the-application)
 - [Project structure](#project-structure)
 
